@@ -1,0 +1,14 @@
+COLOQUE OS PRINTS AQUI COM ESTES NOMES EXATOS
+(a extensao pode ser .png, .jpg ou .jpeg — tanto faz)
+
+  perfil.png          -> print do perfil do Instagram (5.2M seguidores)  [JA COLOCADO]
+  roas.png            -> print do ROAS dos ultimos 30 dias
+  lucro.png           -> print do lucro do periodo
+  cac.png             -> print do custo de aquisicao por aluno
+  novos-alunos.png    -> print do volume de matriculas no periodo
+
+Depois de largar os arquivos aqui, e so me falar "pronto" no chat
+que eu encaixo todos na pagina e atualizo o link.
+
+Nao precisa recortar nem redimensionar nada — eu ajusto o
+enquadramento de cada um direto no CSS.
